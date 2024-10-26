@@ -1,0 +1,51 @@
+header{
+	border-bottom: 1px solid;
+}
+.btn_search{
+	border: none;
+}
+.btn_search::after {
+	display: none;
+}
+.btn_dd{
+	padding: 10px 10px;
+	width: 350px;
+}
+.btn_dd[data-bs-popper] {
+	top: 60px;
+	left: -310px;
+}
+.btn_dd input{
+	border: none;
+}
+.btn_dd button{
+	background: transparent;
+	border: none;
+}
+.banner{
+	background-image: url(../images/banner.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.slider{
+	margin: 210px 0 200px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
